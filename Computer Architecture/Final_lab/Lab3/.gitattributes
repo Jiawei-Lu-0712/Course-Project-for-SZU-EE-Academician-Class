@@ -1,0 +1,7 @@
+*.bat  -text
+*.cfg  -text
+*.drawio -text
+*.pdf -text
+*.svg -text
+*.al -text
+
